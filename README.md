@@ -17,7 +17,7 @@ A modern and responsive blog website built using HTML, CSS, and JavaScript. The 
 ---
 ## 📸 Preview
 
-![Jerry's Blogs](assets/preview.png)
+![Jerry's Blogs](preview.png)
 
 ## 🛠️ Technologies Used
 
